@@ -105,8 +105,8 @@
       if (input === "hi") {
         const randomLine = loveLines[Math.floor(Math.random() * loveLines.length)];
         messageDiv.innerHTML = `
-          Swetha, En Pondatti, I'm one ring/message away from you!<br><br>
-          ❤️ ${randomLine}
+          ❤️ ${randomLine}<br><br>
+          Swetha, En Pondatti, I'm one ring/message away from you!
         `;
       } else {
         messageDiv.textContent = "Just say Hi, my love ❤️";
