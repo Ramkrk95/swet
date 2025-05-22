@@ -35,6 +35,10 @@
       margin-bottom: 10px;
     }
 
+    p {
+      margin: 10px 0;
+    }
+
     input {
       padding: 10px 15px;
       font-size: 18px;
